@@ -1,0 +1,16 @@
+table,tr,td{
+    border: solid 1px rebeccapurple;
+    border-collapse: collapse;
+}
+
+.largura{
+    background-color: aliceblue;
+    color: black;
+}
+
+#largColuna{
+    width: 200px;
+}
+body{
+    font-family: Verdana;
+}
