@@ -1,16 +1,48 @@
 Projeto - Distancia capitais
 
-Descricao do projeto - o projeto
+Projeto criado como parte avaliativa  da disciplina de Fundamentos Desenvolvimento ministra pelo professor Leonardo Rocha
+
+## Índice
+
+* [Descrição](#descrição)
+* [Tecnologias](#tecnologias)
+* [Referencias](#referencias)
+* [Autor(a)](#autora)
 
 
-## Cidades 
-* Cidade 1
+### Descrição 
+
+O projeto consiste na composição de uma tabela que conta com capitais 
+brasileiras e a distancia entre essas capitais.As capitais nesse projeto são:
+
+* Cidade 
 * MANAUS
 * NATAL 
 * PALMAS
 * PORTO ALEGRE
+* PORTO VELHO
+* RECIFE
+* RIO BRANCO 
 
-## Elemetos HTML
+## tecnologias
 
-* table - representa dados tabulares - isto é, informação apresentadas em uma tabela bidimensional composta
-por linhas e colunas de ce´lulas contendo dados
+* HTML5
+* CSS3
+* README
+* Git
+* Github
+
+## referencias
+
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+
+## autor(a)
+
+Esse projeto foi feito pelos membros do 1ºA do colegio Marista Irmão Ácacio
+
+* João 
+* Brenda
+* Ana Laura
+* Willan 
+* Sabrina 
+* Flora 
